@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Joyce Maina.</h1>
 <h3 align="left">A passionate data analyst with a background in healthcare and medical laboratory science research.</h3>
 
-- 👨‍💻 All of my projects are available at [https://data-analyst-1.github.io/Joyce_Maina.github.io/](https://data-analyst-1.github.io/Joyce_Maina.github.io/)
+- 👨‍💻 All of my projects are available at [https://joycemaina-tech.github.io/Joyce_Maina.github.io/](https://joycemaina-tech.github.io/Joyce_Maina.github.io/)
 
 - 📫 How to reach me **joycemaina26856@gmail.com**
 - 🌱 I’m currently learning Business Intelligence Using Tools Like Power BI.
